@@ -1,0 +1,628 @@
+
+html{
+    cursor: url(Cursor1.png), auto;
+}
+
+
+body{
+    background-color: #abd2fa;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bodyi{
+    background-image: url("https://cdn.dribbble.com/users/954572/screenshots/17287669/media/08006f6468a4fbaf528d62e52ffd9fc5.gif"); 
+    background-position: center 25%; 
+    background-size: cover; 
+}
+.bodyC{
+    background-image: url("https://i.pinimg.com/originals/98/b8/55/98b855abeaeee328e0b63e706e5fca31.gif"); 
+    background-position: top 110%;
+    background-size: cover; 
+}
+.bodyCo{
+    background-image: url("https://31.media.tumblr.com/62b57d3970db27ac6ff88e24215ab08d/tumblr_n43wynMb1W1shtowzo1_500.gif"); 
+    background-position: top 110%;
+    background-size: cover; 
+}
+.bodyI{
+    background-image: url("https://37.media.tumblr.com/15693b0712c1e6ae2cc1b63b1d06d29b/tumblr_n4m36rrfwf1s2wio8o1_500.gif"); 
+    background-position: top 110%;
+    background-size: cover; 
+}
+.bodyF{
+    background-image: url("https://media4.giphy.com/media/T9KcDBkWHrWJLF2l5Q/giphy.gif"); 
+    background-position: top 110%;
+    background-size: cover; 
+}
+.bodyM{
+    background-image: url("https://img.wattpad.com/b708bc147f0b14ba49fdc91bf9bfc942972849e8/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f365779594c4f483835535f5869773d3d2d3231342e313538343563316539303935656464333439333238373437303239332e676966"); 
+    background-position: top 180%;
+    background-size: 100%; 
+}
+.indice{
+    margin-left: 260px;
+    margin-right: 50px;
+}
+
+a{
+    cursor: url(mano-mickey.png), auto;
+}
+
+h2{
+    color: white;
+    background-color: #00193d;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    padding: 5px;
+    
+
+}
+h5{
+    color: white;
+    background-color: #00193d;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 16px;
+    color: white;
+    padding: 5px;
+
+}
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+}  
+.btg{
+    border-top: 1px solid black;
+}
+.bbg{
+    border-bottom: 1px solid black;
+}
+.btd{
+    border-top: 0.5px solid rgba(0, 0, 0, 0.162);
+}
+.bbd{
+    border-bottom: 0.5px solid rgba(0, 0, 0, 0.162);
+}
+
+/*Juan de la Cruz*/
+.ca1jp{
+    background-color: orange;
+    width: 700px;
+    height: 250px;
+    float: right;
+}
+
+.ca2jp{
+    background-color: palegoldenrod;
+    float: right;
+    display: flex
+}
+
+.ca3jp{
+    background-color: blue;
+    float: left;
+}
+
+.ca4jp{
+    color: white;
+    padding-top: 2px;
+    background-color: #00193d;;
+    width: 100%;
+    height: 50px;
+}
+
+.ca5jp{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    float: right;
+}
+
+.pa1jp{
+    margin-left: 650px;
+    margin-right: 20px;
+    margin-top: -50px;
+}
+
+.pa2jp{
+    margin-top: -50px;
+}
+
+.cubito1jp{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    
+    
+}
+.cubito2jp{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+}
+.cubito3jp{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+}
+.cubito4jp{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+}
+
+
+
+
+/*Pablo Jesús Inicio*/
+.ima1{
+    width: 323.5px;
+    height: 300px;
+    margin: -10px;
+}
+.ima2{
+    width: 100%;
+    margin-left: 880px;
+    margin-right: 20px;
+    margin-top: -45px;
+}
+.ima3{
+    width: 428.5px;
+    height: 300px;
+    margin: -10px;
+}
+#acom{
+    display: inline-block;
+}
+#carreras{
+    margin-right: 1400px;
+}
+#dis{
+    padding: 20px;
+    margin-top: -5px;
+    margin-left: -5px;
+    margin-right: -8px;
+    background-color: #00193d;
+}
+a[ class|="cubitoq"]{
+    text-align: left;
+    box-sizing: border-box;
+    font-size: 0px;
+    display: inline-block;
+    text-decoration: none;
+    width: 100%;
+    height: 100px;
+    border: 1px solid black;
+    background-color: #00193d;
+    color: white;
+    padding: 10px;
+    margin-bottom: -100px;
+}
+a[ class|="cubito"]{
+    text-align: left;
+    box-sizing: border-box;
+    font-size: 0px;
+    display: inline-block;
+    text-decoration: none;
+    width: 325px;
+    border: 1px solid black;
+    color: white;
+    padding: 10px;
+    margin-left: 125px;
+}
+a[ class|="cubitos"]{
+    text-align: left;
+    box-sizing: border-box;
+    font-size: 0px;
+    display: inline-block;
+    text-decoration: none;
+    width: 430px;
+    border: 1px solid black;
+    color: white;
+    padding: 10px;
+    margin-left: 145px;
+}
+.shake-vertical{
+    animation:shake-vertical 0.8s linear both
+} 
+@keyframes shake-vertical{
+    0%,100%{
+        transform:translateY(0)
+    }10%,30%,50%,70%
+    {
+        transform:translateY(-8px)
+    }20%,40%,60%
+    {
+        transform:translateY(8px)
+    }80%
+    {
+        transform:translateY(6.4px)
+    }90%
+    {
+        transform:translateY(-6.4px)
+    }
+}
+#botonic{
+    border-radius: 10px;
+    padding-top: 10px;
+    height: 40px;
+    width: 200px;
+    margin-left: 0px;
+    background-color: rgb(167, 167, 167);
+    border: 1px solid black;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: url(mano-mickey.png), auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#botonica{
+    border-radius: 10px;
+    padding-top: 10px;
+    height: 40px;
+    width: 200px;
+    margin-left: 0px;
+    background-color: rgba(185, 185, 185, 0.61);
+    border: 1px solid black;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: url(mano-mickey.png), auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+#botonim{
+    border-radius: 10px;
+    padding-top: 10px;
+    height: 40px;
+    width: 200px;
+    margin-left: 0px;
+    background-color: rgb(218, 165, 32);
+    border: 1px solid black;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: url(mano-mickey.png), auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+#botonii{
+    border-radius: 10px;
+    padding-top: 10px;
+    height: 40px;
+    width: 200px;
+    margin-left: 0px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: url(mano-mickey.png), auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+#botonif{
+    cursor: url(mano-mickey.png), auto;
+    border-radius: 10px;
+    padding-top: 10px;
+    height: 40px;
+    width: 200px;
+    margin-left: 0px;
+    background-color: #00193d;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+#botonj{
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    background-color:  #00193d;
+    cursor: url(mano-mickey.png), auto;
+    border: 2px solid black;
+    padding: 5px 32px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+    flex-direction: row;
+    }
+    /*Boton magico para regresar a la pagina principal */
+    #botonj::before{
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(45deg, 	white, rgb(132, 68, 216), white, rgb(132, 68, 216), blue , white,  rgb(132, 68, 216), blue);
+        background-size: 800%;
+        border-radius: 20px;
+        filter: blur(8px);
+        animation: glowing 20s linear infinite;
+    }
+    
+    /*elementos del boton magico */
+    @keyframes glowing{
+        0%{
+            background-position: 0 0;
+        }
+    
+        50%{
+            background-position: 400% 0;
+        }
+    
+        100%{
+            background-position: 0 0;
+        }
+    }
+/*Pablo Jesús Fin*/
+
+
+
+
+
+
+/*Juan Cortes inicio*/
+.I1{
+    margin-top: -45px;
+    margin-left: 800px;
+}
+.I2{
+    margin-top: -45px;
+    margin-left: 52px;
+
+}
+.I3{
+    margin-top: 0px;
+    margin-left: 800px;
+}
+.I4{
+    margin-top: 0px;
+    margin-left: 92px;
+
+}
+.margenes1{
+    margin-left: 600px;
+    margin-top: -60px;
+}
+.margenes2{
+    margin-left: 800px;
+    margin-top: -60px;
+}
+.apply{
+    margin-left: 900px;
+    text-align: center;
+    margin-right: 370px;
+}
+
+.parrafos{
+    text-align: justify;
+    display: flex;
+}
+
+.textoDerecha{
+    text-align: right;
+
+}
+
+.contenedorM{
+    width: 100%;
+    height: 100px;
+    background-color: #D6EFED;
+}
+
+.contenedorM-2{
+    width: 100%;
+    height: 280px;
+    background-color: #D6EFED;
+}
+
+.contenedorM-3{
+    width: 100%;
+    height: 80px;
+    background-color: #D6EFED;
+}
+
+.contenedorM-4{
+    width: 100%;
+    height: 400px;
+    background-color: #D6EFED;
+}
+
+.caja-1{
+    width: 400px;
+    background-color: #D6EFED;
+    right: 15px;
+    position: absolute;
+}
+
+.caja-1-1{
+    width: 400px;
+    background-color: #D6EFED;
+    right: 430px;
+    position: absolute;
+}
+
+
+.caja-2{
+    width: 100px;
+    height: 100px;
+    background-color: #D6EFED;
+    right: 15px;
+    position: absolute;
+}
+
+.caja-3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(218, 170, 13);
+    right: 130px;
+    position: absolute;   
+}
+
+.caja-4{
+    width: 100px;
+    height: 100px;
+    background-color: #D6EFED;
+    right: 245px;
+    position: absolute;
+    
+}
+
+.caja-5{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(218, 13, 13);
+    right: 360px;
+    position: absolute;
+    
+}
+
+.caja-6{
+    width: 100px;
+    height: 100px;
+    background-color: #D6EFED;
+    right: 15px;
+    margin-top: 140px;
+    position: absolute;
+    
+}
+
+.caja-7{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(18, 48, 221);
+    right: 130px;
+    margin-top: 140px;
+    position: absolute;
+    
+}
+
+.caja-8{
+    width: 100px;
+    height: 100px;
+    background-color: #D6EFED;
+    right: 245px;
+    margin-top: 140px;
+    position: absolute;
+    
+}
+
+.caja-9{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(13, 170, 218);
+    right: 360px;
+    margin-top: 140px;
+    position: absolute;
+    
+}
+
+.imagen{
+    width: 130px;
+    height: 130px;
+    margin-top: 15px;
+    margin-left: 80px;
+    border: 2px solid black;
+    
+}
+
+
+
+/*Juan Cortes Fin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Alan inicio*/
+.contenedor1 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: -38px;
+}
+.contenedor_texto1 {
+    display: flex;
+    justify-content: flex-end;
+    text-align: left;
+    width: 790px;
+    margin-right: 20px;
+}
+.contenedor2 {
+    color: white;
+    background-color: #00193d;
+    height: 100px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.contenedor_texto2 {
+    margin-left: 4%;
+}
+.contenedor3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedora5{
+    margin: white;
+}
+.contenedora5::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.contenedora5 .item1{
+    width: calc( 33% - 2em );
+    float: left;
+    margin: 0 1em;
+    margin-left: 7%;
+}
+.contenedora5 .item2{
+    width: calc( 33% - 2em );
+    float: left;
+    margin: 0 1em;
+    margin-left: 7%;
+}
+.contenedora5 .item3{
+    width: calc( 33% - 2em );
+    float: right;
+    margin: 0 1em;
+    margin-right: -8%;
+    top: -8%;
+}
+/*Alan fin*/
